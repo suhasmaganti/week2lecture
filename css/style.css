@@ -1,0 +1,22 @@
+body{
+	background: grey;
+	color: yellow;
+	size: 150%;
+	margin: 5%;
+}
+
+*:focus {
+	border: 1px solid;
+}
+
+p {
+	font-family: Arial;
+}
+
+nav {
+	color: black;
+}
+
+/** {
+	color: orange;
+}*/
